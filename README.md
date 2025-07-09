@@ -1,1 +1,1 @@
-# Classificar-dados-com-Machine-Learning
+Será abordada a distinção entre variáveis dependentes e explicativas, além da separação dos dados em treinamento e teste. Você aplicará regressões usando ferramentas como Statsmodels e Scikit-learn, interpretará coeficientes estimados e utilizará métricas e resíduos para avaliar a qualidade dos modelos. Técnicas avançadas de modelagem e transformações nos dados serão exploradas para melhorar previsões, culminando na comparação dos melhores modelos e análise gráfica dos resultados obtidos.
